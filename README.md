@@ -1,5 +1,5 @@
-Description : Responsive React Space App .\
-Used Frameworks : React, Tailwind.\
+Description : Responsive Space App
+Used Frameworks : React, Tailwind.
 Live Server : https://sputnik115.netlify.app/ .
 
 # Getting Started with Create React App
