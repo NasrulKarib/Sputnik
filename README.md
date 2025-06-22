@@ -1,5 +1,5 @@
-Description : Responsive Space App
-Used Frameworks : React, Tailwind.
+Description : First project in Tailwind with React. It is a responsive space app named Sputnik\
+Used Frameworks : React, Tailwind.\
 Live Server : https://sputnik115.netlify.app/ .
 
 # Getting Started with Create React App
